@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bruce Rodu
 
-<!--
-**Rodu123/Rodu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development, data science and love building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently learning: C++ and HTML
+-  Interests: Outdoor sports(Volleyball)
+-  Reach me at: rodubruce0@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+Here are some of the tools and technologies I use:
+
+- **Languages:**  JavaScript, C++
+- **Frameworks:** React, Node.js
+- **Databases:** MySQL
+- **Cloud/DevOps:** GitHub Actions
+- **Other Tools:** Git
+
+---
+
+## 🤝 Connect With Me
+- [Instagram](https://instagram.com/in/Looneytim_)
+
+
+---
+
+✨ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
