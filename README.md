@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ---
 
 ##  About Me
+-I'm currently undergoing Bsc in 2nd sem at Nielit
 -  Currently learning: C++ and HTML
 -  Interests: Outdoor sports(Volleyball)
 -  Reach me at: rodubruce0@gmail.com
